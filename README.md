@@ -36,7 +36,7 @@
    password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 13. LEVEL12 bandit12:
     - commands: ls , cd , cat , file , du , grep
-    password:7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 
+    password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 
 14. LEVEL13 bandit13:
     - commands: ls , cd , cat , file , du , grep, tr
     password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
@@ -48,7 +48,7 @@
     password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 17. LEVEL16 bandit16:
     - commands: ls , cd , cat , file , du , grep
-    password:
+    password: kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 18. LEVEL18 bandit18:
     - commands: ls , cd , cat , file , du , grep
-    password:
+    password: 
