@@ -26,29 +26,29 @@
    - commands:
    password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 10. LEVEL9 bandit9:
-    - commands:
+    - commands:ls , cd , cat , file , du , grep
     password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 11. LEVEL10 bandit10:
-    - commands:
-    password:
+    - commands: ls , cd , cat , file , du , grep, string
+    password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 12. LEVEL11 bandit11:
-    - commands:
-   password:
+    - commands: ls , cd , cat , file , du , grep, tr
+   password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 13. LEVEL12 bandit12:
-    - commands:
-    password:
+    - commands: ls , cd , cat , file , du , grep
+    password:7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 
 14. LEVEL13 bandit13:
-    - commands:
-    password:
+    - commands: ls , cd , cat , file , du , grep, tr
+    password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 15. LEVEL14 bandit14:
-    - commands:
-    password:
+    - commands: ls , cd , cat , file , du , grep
+    password: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 16. LEVEL15 bandit15:
-    - commands:
-    password:
+    - commands: ls , cd , cat , file , du , grep
+    password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 17. LEVEL16 bandit16:
-    - commands:
+    - commands: ls , cd , cat , file , du , grep
     password:
 18. LEVEL18 bandit18:
-    - commands:
+    - commands: ls , cd , cat , file , du , grep
     password:
