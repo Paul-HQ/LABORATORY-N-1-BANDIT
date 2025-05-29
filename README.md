@@ -52,3 +52,18 @@
 18. LEVEL18 bandit18:
     - commands: ls , cd , cat , file , du , grep
     password: 
+19. LEVEL19 bandit19:
+    - commands:
+    password:
+20. LEVEL20 bandit20:
+    - commands:
+    password:
+21. LEVEL21 bandit21:
+    - commands:
+    password:
+22. LEVEL22 bandit22:
+    - commands:
+    password:
+23. LEVEL23 bandit23:
+    - commands:
+    password: 
